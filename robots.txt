@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nemanjadragosavac.github.io/ApiShop/sitemap.xml
